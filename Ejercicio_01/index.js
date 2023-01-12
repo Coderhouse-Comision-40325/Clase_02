@@ -33,4 +33,4 @@ console.log('3**3', calculoPotencia('3**3'));
 console.log('4**', calculoPotencia('4**'));
 console.log('4**5', calculoPotencia('4**5'));
 console.log('8**2**', calculoPotencia('8**2**'));
-console.log('4*=5', console.log('4*=5'));
+console.log('4*=5', calculoPotencia('4*=5'));
